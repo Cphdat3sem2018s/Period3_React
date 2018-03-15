@@ -9,10 +9,10 @@ For this period you can use whatever **IDE/editor** you like. If you prefer the 
 - [Watch and CODE ALONG step 1-7 from this tutorial](https://egghead.io/lessons/react-use-create-react-app-to-setup-a-simple-react-app)
 - Watch/skim these sections in Facebook's tutorial (will be referred to from the exercises) [Components and Props](https://reactjs.org/docs/components-and-props.html) , [State and LifeCycle](https://reactjs.org/docs/state-and-lifecycle.html)
 
-
+### Exercises
 - [Exercises Day1](https://docs.google.com/document/d/1PLgoVjzfnuD2jxf8C4n1RnFCkpHbR6C6VMa9paOZM78/edit?usp=sharing) (make sure to read/skim the articles refered to in the exercises)
 
-- [Slides](http://sem3slides.mydemos.dk/react1/react1.html#1) (optimized for Google Chrome)
+[Slides](http://sem3slides.mydemos.dk/react1/react1.html#1) (optimized for Google Chrome)
 
 
 ### Day 2 (21/3)- State and Lifecycle Methods, Forms, List and keys, Lifting state up
@@ -24,11 +24,10 @@ Read/skim these sections from the Facebook tutorial:
 - [Lifting State Up](https://reactjs.org/docs/lifting-state-up.html)
 - Read this article [Thinking in React](https://medium.com/@nimelrian/thinking-in-react-a-paradox-statement-33c19e2eb9e2)
 
----
-
+### Exercises
 - [Exercises Day2](https://docs.google.com/document/d/16LPJLZyeRWYed2gvAP1RhXVtbc1ACTskYl9xd_Odg3I/edit?usp=sharing) 
 
-- [Slides](http://sem3slides.mydemos.dk/react2/react2.html#1)
+[Slides](http://sem3slides.mydemos.dk/react2/react2.html#1)
 
 
 ### Day 3 (22/3) (TBD)
