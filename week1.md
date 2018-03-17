@@ -30,8 +30,10 @@ Read/skim these sections from the Facebook tutorial:
 [Slides](http://sem3slides.mydemos.dk/react2/react2.html#1)
 
 
-### Day 3 (22/3) (TBD)
+### Day 3 (22/3) Interaction with asynchronoues API's
 
+### Exercises
+[API interaction using fetch](https://docs.google.com/document/d/1tNJdclCpzOPp9mVNzUMyI12WiidksUK6J8UF8e2U4ys/edit?usp=sharing)
 
 ### Friday (23/3) - Study point exercises
 [SP6 (TBD)]()
