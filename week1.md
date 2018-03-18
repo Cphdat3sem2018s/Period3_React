@@ -35,5 +35,5 @@ Read/skim these sections from the Facebook tutorial:
 ### Exercises
 [API interaction using fetch](https://docs.google.com/document/d/1tNJdclCpzOPp9mVNzUMyI12WiidksUK6J8UF8e2U4ys/edit?usp=sharing)
 
-### Friday (23/3) - Study point exercises
-[SP6 (TBD)]()
+### Friday (23/3) - Study point exercises  (Please observe the way to do reviews for this set)
+[SP6](https://docs.google.com/document/d/1UfOjMbiINjL8NAcVvjPuP_3Xk9UGK7g4VCbfWmgwRGA/edit?usp=sharing)
