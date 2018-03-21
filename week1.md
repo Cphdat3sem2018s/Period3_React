@@ -31,6 +31,7 @@ Read/skim these sections from the Facebook tutorial:
 
 
 ### Day 3 (22/3) Interaction with asynchronoues API's
+Read [this article](https://davidwalsh.name/async-await) about how to use fetch with the new JS construct async-await
 
 ### Exercises
 [API interaction using fetch](https://docs.google.com/document/d/1tNJdclCpzOPp9mVNzUMyI12WiidksUK6J8UF8e2U4ys/edit?usp=sharing)
