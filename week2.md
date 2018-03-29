@@ -12,7 +12,6 @@ For this period you can use whatever **IDE/editor** you like. If you prefer the 
 ### Exercises
 - [Exercises React Router (TBD) ](https://docs.google.com/document/d/1HS5x4viPsdFU0DxK-mIDTkaOk5v3NmJSig-JCOTmqQg/edit?usp=sharing) 
 
-[Slides (TBD)]()
 
 
 ### Day 2 (Wednesday 4/4)- Security, Authentication/Authorication in SPA's and how to handle passwords
@@ -25,7 +24,7 @@ For this period you can use whatever **IDE/editor** you like. If you prefer the 
 
 
 ### Exercises
-- [Exercises Security (TBD)]() 
+- [Exercises Security](https://docs.google.com/document/d/1hC21WzWjNnQLy0eoLJB-HFRmVYpj-KtprHfmgwlyx50/edit?usp=sharing) 
 
 [Slides](http://sem3slides.mydemos.dk/security/security.html)
 
