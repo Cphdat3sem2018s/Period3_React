@@ -7,7 +7,7 @@ For this period you can use whatever **IDE/editor** you like. If you prefer the 
 ### Read/watch/do before this lesson
 - Hopefully you have all completed all the steps in this [small exercise](https://docs.google.com/document/d/1NifApJ0QWxqa5kvvDxCvYew7WYqVViKiE0X8tB0Su0A/edit?usp=sharing), including the "watch the video" part. If not do it before this lesson
 - Another small [tutorial/guide](https://www.sitepoint.com/react-router-v4-complete-guide/), which will introduce you to React Router
-- Bookmark this link, which include the API-description for React Router V4, which we will be using
+- Bookmark this [link](https://reacttraining.com/react-router/web/api/), which include the API-description for React Router V4, which we will be using
 
 ### Exercises
 - [Exercises React Router](https://docs.google.com/document/d/1HS5x4viPsdFU0DxK-mIDTkaOk5v3NmJSig-JCOTmqQg/edit?usp=sharing) 
