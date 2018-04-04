@@ -18,7 +18,7 @@ For this period you can use whatever **IDE/editor** you like. If you prefer the 
 
 ### Watch these videos before the lesson:
 
-- [JSON Web Tokens (first 24 min)](https://www.youtube.com/watch?v=K6pwjJ5h0Gg)
+- [JSON Web Tokens (first 24 min)](https://www.youtube.com/watch?v=oXxbB5kv9OA)
 - [Passords hashing with bcrypt](https://www.youtube.com/watch?v=K6pwjJ5h0Gg)
 - Skim this article about [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 
