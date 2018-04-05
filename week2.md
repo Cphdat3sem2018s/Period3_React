@@ -44,5 +44,8 @@ Readings and references for Expo and React Native
 ### Exercises
 [React Native](https://docs.google.com/document/d/1InOKIB8hLsjKCtjrqkgtQIDHDorMEvpE_j12MMvU1Vk/edit?usp=sharing)
 
+### Slides
+[slides](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?
+
 ### Friday (6/4 - Study point exercises
 [SP7](https://docs.google.com/document/d/15pf9ITfJGXERDZTQ8g5Y71lqd0NkSPBLpph4qp6tz0o/edit?usp=sharing)
