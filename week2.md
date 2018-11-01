@@ -2,7 +2,7 @@
 
 For this period you can use whatever **IDE/editor** you like. If you prefer the same editor as the one i'm using during demo's you should: [Install](https://code.visualstudio.com/download) Visual Studio Code(vs-code) 
 
-## Day 1 (Tuesday 3/4) - React Router
+## Day 1 Monday - React Router
 
 ### Read/watch/do before this lesson
 - Hopefully you have all completed all the steps in this [small exercise](https://docs.google.com/document/d/1NifApJ0QWxqa5kvvDxCvYew7WYqVViKiE0X8tB0Su0A/edit?usp=sharing), including the "watch the video" part. If not do it before this lesson
@@ -14,7 +14,7 @@ For this period you can use whatever **IDE/editor** you like. If you prefer the 
 
 
 
-### Day 2 (Wednesday 4/4)- Security, Authentication/Authorication in SPA's and how to handle passwords
+### Day 2 Tuesday- Security, Authentication/Authorication in SPA's and how to handle passwords
 
 ### Watch these videos before the lesson:
 
@@ -29,7 +29,7 @@ For this period you can use whatever **IDE/editor** you like. If you prefer the 
 [Slides](http://sem3slides.mydemos.dk/security/security.html)
 
 
-### Day 3 (Thuersday 5/4) React Native
+### Day 3 Wednesday - React Native
 
 ### Read/watch/do before this lesson
 Make sure to watch these videos before todays lecture:
@@ -47,5 +47,7 @@ Readings and references for Expo and React Native
 ### Slides
 [slides](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=04450ab78c4af4a52b57374a8a0bbab99&authkey=Abf1DjeZQAopUlja2hem9cs)
 
-### Friday (6/4 - Study point exercises
-[SP7](https://docs.google.com/document/d/15pf9ITfJGXERDZTQ8g5Y71lqd0NkSPBLpph4qp6tz0o/edit?usp=sharing)
+### Day 4 Thuersday - React Native-2
+
+### Friday - exercises
+[SP7]()
