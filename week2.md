@@ -19,7 +19,7 @@ For this period you can use whatever **IDE/editor** you like. If you prefer the 
 ### Watch these videos before the lesson:
 
 - [JSON Web Tokens (first 24 min)](https://www.youtube.com/watch?v=oXxbB5kv9OA)
-- [Passords hashing with bcrypt](https://www.youtube.com/watch?v=O6cmuiTBZVs)
+- [Passords hashing with bcrypt](https://www.youtube.com/watch?v=O6cmuiTBZVs) (still one of the coolest educational videos ever made ;-)
 - Skim this article about [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 
 
@@ -33,7 +33,7 @@ For this period you can use whatever **IDE/editor** you like. If you prefer the 
 
 ### Read/watch/do before this lesson
 Make sure to watch these videos before todays lecture:
-- [Why React Native Is Such A Big Deal](https://www.youtube.com/watch?v=CAc_PAbJkVU)
+- [Comparing (some) of the alternatives to user for "crossplatform" development](https://www.youtube.com/watch?v=bnYJRYFsrSw)
 - [Expo Explained in 2 Minutes](https://www.youtube.com/watch?v=IQI9aUlouMI)
 
 Readings and references for Expo and React Native
