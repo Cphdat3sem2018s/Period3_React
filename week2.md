@@ -33,7 +33,7 @@ For this period you can use whatever **IDE/editor** you like. If you prefer the 
 
 ### Read/watch/do before this lesson
 Make sure to watch these videos before todays lecture:
-- [Comparing (some) of the alternatives to user for "crossplatform" development](https://www.youtube.com/watch?v=bnYJRYFsrSw)
+- [Comparing (some) of the alternatives technologies for "crossplatform" development](https://www.youtube.com/watch?v=bnYJRYFsrSw)
 - [Expo Explained in 2 Minutes](https://www.youtube.com/watch?v=IQI9aUlouMI)
 
 Readings and references for Expo and React Native
