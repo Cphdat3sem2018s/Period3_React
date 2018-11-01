@@ -14,7 +14,7 @@ For this period you can use whatever **IDE/editor** you like. If you prefer the 
 
 
 
-### Day 2 Tuesday- Security, Authentication/Authorication in SPA's and how to handle passwords
+## Day 2 Tuesday- Security, Authentication/Authorication in SPA's and how to handle passwords
 
 ### Watch these videos before the lesson:
 
@@ -29,7 +29,7 @@ For this period you can use whatever **IDE/editor** you like. If you prefer the 
 [Slides](http://sem3slides.mydemos.dk/security/security.html)
 
 
-### Day 3 Wednesday - React Native
+## Day 3 Wednesday - React Native
 
 ### Read/watch/do before this lesson
 Make sure to watch these videos before todays lecture:
@@ -47,7 +47,7 @@ Readings and references for Expo and React Native
 ### Slides
 [slides](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=04450ab78c4af4a52b57374a8a0bbab99&authkey=Abf1DjeZQAopUlja2hem9cs)
 
-### Day 4 Thuersday - React Native-2
+## Day 4 Thuersday - React Native-2
 
-### Friday - exercises
+## Friday - exercises
 [SP7]()
